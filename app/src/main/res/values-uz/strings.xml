@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JkLesson3</string>
+    <string name="home">Bosh sahifa</string>
+    <string name="settings">Sozlamalar</string>
+    <string name="profile">Profile</string>
+</resources>
